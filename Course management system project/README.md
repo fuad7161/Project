@@ -5,4 +5,4 @@
 
 ### Screenshots
 
-![screenshot](screenshots/read-1.png)
+![screenshot](screenshot/home_page.PNG)
