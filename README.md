@@ -9,6 +9,25 @@
 
 now I want to edit this page....
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(55).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(56).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(57).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(58).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(59).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(60).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(61).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(62).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(63).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(64).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(65).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(66).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(67).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(68).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(69).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(70).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(71).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(72).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(73).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(74).png)
 
 ## About Laravel
 
