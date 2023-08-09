@@ -8,8 +8,8 @@
 </p>
 
 now I want to edit this page....
-![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(55).png)
-![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(56).png)
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(55).png);
+![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(56).png);
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(57).png)
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(58).png)
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(59).png)
