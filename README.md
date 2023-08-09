@@ -8,6 +8,7 @@
 </p>
 
 now I want to edit this page....
+![alt text]([http://url/to/img.png](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(55).png))
 
 ## About Laravel
 
