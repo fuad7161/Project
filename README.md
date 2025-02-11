@@ -144,23 +144,6 @@ Access the system at `http://127.0.0.1:8000`
 
 ---
 
-## **Contributing**
-
-Feel free to fork this repository and submit pull requests with improvements.
-
----
-
-## **License**
-
-This project is licensed under the MIT License.
-
----
-
-## **Contact**
-
-For any queries, reach out to `your-email@example.com`.
-
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
