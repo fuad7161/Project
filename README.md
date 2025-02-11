@@ -1,3 +1,166 @@
+# Online Examination System
+
+## Introduction
+
+The Online Examination System is a Laravel-based web application that allows educational institutions to conduct exams digitally. This system includes an admin dashboard, user management, exam scheduling, and result evaluation.
+
+---
+
+## **Technologies Used**
+
+- **Backend:** Laravel (PHP Framework)
+- **Frontend:** HTML, CSS
+- **Database:** MySQL
+- **Authentication:** Laravel built-in authentication system
+
+---
+
+## **Installation and Setup**
+
+### **1. Clone the Repository**
+
+```bash
+git clone https://github.com/your-repository.git
+cd online-exam-system
+```
+
+### **2. Install Dependencies**
+
+```bash
+composer install
+npm install
+```
+
+### **3. Configure Environment**
+
+Copy the `.env.example` file and update your database details:
+
+```bash
+cp .env.example .env
+php artisan key:generate
+```
+
+Update the `.env` file with your database credentials:
+
+```
+DB_DATABASE=your_database
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
+```
+
+### **4. Run Database Migrations**
+
+```bash
+php artisan migrate --seed
+```
+
+### **5. Serve the Application**
+
+```bash
+php artisan serve
+```
+
+Access the system at `http://127.0.0.1:8000`
+
+---
+
+## **Features**
+
+### **Admin Dashboard**
+
+- Manage Subjects
+- Create and schedule exams
+- Define marks distribution
+- Add and manage questions
+- Manage student registrations
+- Review exams and publish results
+
+### **User Features**
+
+- Register and login
+- View available exams
+- Take exams with a countdown timer
+- Submit exams
+- View exam results
+
+---
+
+## **Exam Flow**
+
+1. Admin creates an exam and adds questions.
+2. Students log in and attempt the exam within the allocated time.
+3. Objective answers are auto-graded, while subjective ones await admin review.
+4. Admin publishes the final results.
+
+---
+
+## **Result Evaluation**
+
+- Auto-grading for objective questions.
+- Manual review for subjective answers.
+- Results are displayed after admin approval.
+
+---
+
+## **Important Routes**
+
+### **Authentication Routes**
+
+- `/register` - User registration
+- `/login` - User login
+- `/logout` - User logout
+- `/forget-password` - Request password reset
+- `/reset-password` - Reset user password
+
+### **Admin Routes**
+
+- `/admin/dashboard` - Admin dashboard
+- `/add-subject` - Add new subject
+- `/edit-subject` - Edit subject details
+- `/delete-subject` - Delete a subject
+- `/admin/exam` - Exam dashboard
+- `/add-exam` - Add new exam
+- `/update-exam` - Update exam details
+- `/delete-exam` - Delete an exam
+- `/admin/qna-ans` - Manage Questions and Answers
+- `/add-qna-ans` - Add new Q&A
+- `/update-qna-ans` - Update Q&A
+- `/delete-qna-ans` - Delete Q&A
+- `/admin/students` - Manage student list
+- `/add-student` - Add new student
+- `/edit-student` - Edit student details
+- `/delete-student` - Delete a student
+- `/admin/marks` - Exam marks distribution
+- `/update-marks` - Update marks
+- `/admin/review-exams` - Review exams
+
+### **Student Routes**
+
+- `/dashboard` - Student dashboard
+- `/exam/{id}` - Take exam
+- `/exam-submit` - Submit exam
+- `/results` - View results
+- `/review-student-qna` - Review Q&A
+
+---
+
+## **Contributing**
+
+Feel free to fork this repository and submit pull requests with improvements.
+
+---
+
+## **License**
+
+This project is licensed under the MIT License.
+
+---
+
+## **Contact**
+
+For any queries, reach out to `your-email@example.com`.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
