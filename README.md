@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-now I want to edit this page....
-![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(55).png)
+
+
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(56).png)
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(57).png)
 ![alt text](https://github.com/fuad7161/Project/blob/main/Picture/Screenshot%20(58).png)
